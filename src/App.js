@@ -4,7 +4,7 @@ import Inputform from "./Components/Form";
 function App() {
   return (
     <div className="flex justify-center items-center h-screen bg-black">
-      <Inputform/>
+      <Inputform />
     </div>
   );
 }
